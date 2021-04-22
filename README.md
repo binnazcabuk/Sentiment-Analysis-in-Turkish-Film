@@ -25,5 +25,14 @@
 <br>
   <b>8.</b> Başarılı modeli kullanarak kullanıcıya yorum ekranı sunma
 
-
 </p>
+<hr>
+<div align="center">
+   <h1>Veri Seti</h1> 
+</div>
+<p>Çeşitli film izleme platformlarından  toplanmış  11.506 negatif, 12.144 pozitif yorum olmak üzere toplam 23.650 yorum içermektedir.</p>
+<p align='center'>
+<a href="">
+    <img  src="https://user-images.githubusercontent.com/34273337/115794578-e679c180-a3d6-11eb-9174-15fcb2d8775e.PNG" width="300"></a>
+ </p>
+
