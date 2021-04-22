@@ -26,6 +26,7 @@
   <b>8.</b> Başarılı modeli kullanarak kullanıcıya yorum ekranı sunma
 
 </p>
+<p><i>Zemberek Kütüphanesi Kullanılmıştır.</i>
 <hr>
 <div align="center">
    <h1>Veri Seti</h1> 
