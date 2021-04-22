@@ -9,21 +9,21 @@
    <h1>Proje İşleyişi</h1> 
 </div>
 <p> 
-1. Veri setini oluşturma
+    <b>1.</b> Veri setini oluşturma
 <br>
-2. Veri seti önişleme
+  <b>2.</b> Veri seti önişleme
 <br>
-3. Count Vectorizer Özellik vektörü çıkarımı ve  matrise dönüştürme
+  <b>3.</b> Count Vectorizer Özellik vektörü çıkarımı ve  matrise dönüştürme
 <br>
-4.Lojistik Regresyon, Naive Bayes ve Destek Vektör Makineleri ile  ayrı ayrı eğitme
+  <b>4.</b>Lojistik Regresyon, Naive Bayes ve Destek Vektör Makineleri ile  ayrı ayrı eğitme
 <br>
-5. TF-IDF Vectorizer Özellik vektörü çıkarımı ve matrise dönüştürme
+  <b>5.</b> TF-IDF Vectorizer Özellik vektörü çıkarımı ve matrise dönüştürme
 <br>
-6.Lojistik Regresyon, Naive Bayes ve Destek Vektör Makineleri ile  ayrı ayrı eğitme
+  <b>6.</b>Lojistik Regresyon, Naive Bayes ve Destek Vektör Makineleri ile  ayrı ayrı eğitme
 <br>
-7. İki özellik vektörü ile yapılan eğitimlerin başarı oranları karşılaştırması yapma
+  <b>7.</b> İki özellik vektörü ile yapılan eğitimlerin başarı oranları karşılaştırması yapma
 <br>
-8. Başarılı modeli kullanarak kullanıcıya yorum ekranı sunma
+  <b>8.</b> Başarılı modeli kullanarak kullanıcıya yorum ekranı sunma
 
 
 </p>
