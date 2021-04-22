@@ -169,5 +169,5 @@ Bu algoritmada, her bir veri maddesini belirli bir koordinatın değeri olan her
 <a href="">
     <img  src="https://user-images.githubusercontent.com/34273337/115796650-e085df80-a3da-11eb-9d14-c0e845e2609e.PNG" ></a>
  </p>
-hr>
+
 
