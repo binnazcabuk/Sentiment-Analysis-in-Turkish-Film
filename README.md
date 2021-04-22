@@ -35,4 +35,15 @@
 <a href="">
     <img  src="https://user-images.githubusercontent.com/34273337/115794578-e679c180-a3d6-11eb-9174-15fcb2d8775e.PNG" ></a>
  </p>
+<hr>
+<div align="center">
+   <h1>Ön İşleme</h1> 
+</div>
+
+<p> 
+ Günlük konuşma dili ile yazılmış olan yorumlar çokça gereksiz kelime, anlamsız karakter içermektedir ve buda anlam karmaşasına sebep olmaktadır. Bunu önlemek ve daha sade veri seti elde etmek için ön işleme uygulanmıştır.
+ 
+Noktalama işaretleri de kelimeleri sayısal vektörlere dönüştürme aşamasında gereksiz yere vektörlerin büyüklüğünü arttıracak bir unsur olduğundan tüm noktalama işaretleri ve sayılar temizlenmiştir. Türkçe alfabede yer almayan tüm karakterler kaldırılmıştır. Şapkalı karakterler eşleniği ile değiştirilmiştir. Kelime vektörlerinin bütünlüğünü sağlamak için tüm harfler küçük harfe dönüştürülmüştür. 
+</p>
+
 
