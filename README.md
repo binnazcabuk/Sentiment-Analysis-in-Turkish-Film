@@ -4,6 +4,7 @@
 <a href="">
     <img  src="https://user-images.githubusercontent.com/34273337/115793736-54bd8480-a3d5-11eb-8113-f4a6b801a1ae.PNG" width="500"></a>
  </p>
+ <p><i>Proje dosyası içerisinde veriseti ve .py uzantılı dosyalar bulunmaktadır.Tüm proje içeriği paylaşılmamıştır.</i> </p>
 <hr>
 <div align="center">
    <h1>Proje İşleyişi</h1> 
@@ -158,4 +159,13 @@ Bu algoritmada, her bir veri maddesini belirli bir koordinatın değeri olan her
 <p align='center'>
 <a href="">
     <img  src="https://user-images.githubusercontent.com/34273337/115796650-e085df80-a3da-11eb-9d14-c0e845e2609e.PNG" ></a>
+ </p>
+hr>
+<div align="center">
+   <h1>Demo
+</h1> 
+</div>
+<p align='center'>
+<a href="">
+    <img  src="https://user-images.githubusercontent.com/34273337/115797964-d5807e80-a3dd-11eb-922c-e029335836f3.gif" ></a>
  </p>
