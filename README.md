@@ -4,7 +4,7 @@
 <a href="">
     <img  src="https://user-images.githubusercontent.com/34273337/115793736-54bd8480-a3d5-11eb-8113-f4a6b801a1ae.PNG" width="500"></a>
  </p>
- <p><i>Proje dosyası içerisinde veriseti ve .py uzantılı dosyalar bulunmaktadır.Tüm proje içeriği paylaşılmamıştır.</i> </p>
+ <p  align='center'><i>Proje dosyası içerisinde veriseti ve .py uzantılı dosyalar bulunmaktadır.Tüm proje içeriği paylaşılmamıştır.</i> </p>
 
 <div align="center">
    <h1>Demo
