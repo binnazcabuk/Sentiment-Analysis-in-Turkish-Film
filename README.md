@@ -10,14 +10,20 @@
 </div>
 <p> 
 1. Veri setini oluşturma
+<br>
 2. Veri seti önişleme
+<br>
 3. Count Vectorizer Özellik vektörü çıkarımı ve  matrise dönüştürme
+<br>
 4.Lojistik Regresyon, Naive Bayes ve Destek Vektör Makineleri ile  ayrı ayrı eğitme
+<br>
 5. TF-IDF Vectorizer Özellik vektörü çıkarımı ve matrise dönüştürme
+<br>
 6.Lojistik Regresyon, Naive Bayes ve Destek Vektör Makineleri ile  ayrı ayrı eğitme
+<br>
 7. İki özellik vektörü ile yapılan eğitimlerin başarı oranları karşılaştırması yapma
+<br>
 8. Başarılı modeli kullanarak kullanıcıya yorum ekranı sunma
 
-![image](https://user-images.githubusercontent.com/34273337/115794118-15dbfe80-a3d6-11eb-9bad-69680e984dc7.png)
 
 </p>
