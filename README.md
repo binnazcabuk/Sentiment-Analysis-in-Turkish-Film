@@ -26,7 +26,7 @@
   <b>8.</b> Başarılı modeli kullanarak kullanıcıya yorum ekranı sunma
 
 </p>
-<p><i>Zemberek Kütüphanesi Kullanılmıştır.</i>
+
 <hr>
 <div align="center">
    <h1>Veri Seti</h1> 
@@ -46,7 +46,7 @@
  <br>
 Noktalama işaretleri de kelimeleri sayısal vektörlere dönüştürme aşamasında gereksiz yere vektörlerin büyüklüğünü arttıracak bir unsur olduğundan tüm noktalama işaretleri ve sayılar temizlenmiştir. Türkçe alfabede yer almayan tüm karakterler kaldırılmıştır. Şapkalı karakterler eşleniği ile değiştirilmiştir. Kelime vektörlerinin bütünlüğünü sağlamak için tüm harfler küçük harfe dönüştürülmüştür. 
 </p>
-
+<p><i>Zemberek Kütüphanesi Kullanılmıştır.</i>
 <hr>
 <div align="center">
    <h1>Count Vectorizer)
