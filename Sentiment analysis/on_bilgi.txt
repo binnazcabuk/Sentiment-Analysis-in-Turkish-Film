@@ -1,0 +1,19 @@
+---
+count vectorizer sınıfı kullanılarak vektörleşme yöntemi uygulanmış.
+3 Makine öğrenme algoritması ile eğitilmiştir.
+
+---
+TF-İDF vectorizer sınıfı kullanılarak vektörleşme yöntemi uygulanmış.
+3 Makine öğrenme algoritması ile eğitilmiştir.
+
+----
+ Tüm başarı oranları karşılaştırılınca en iyi başarıyı tf-idf vektorizer
+uygulanmış veri setinde naive bayes algoritması vermiştir.
+
+---
+
+tf-idf_vectorizer_sinifi_ile_egitme dosyasında yorum yapma ekranı eklenmiştir.
+en iyi başarı burada olduğu için yorum için kullanılmıştır.
+
+---
+
