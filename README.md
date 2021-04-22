@@ -33,6 +33,6 @@
 <p>Çeşitli film izleme platformlarından  toplanmış  11.506 negatif, 12.144 pozitif yorum olmak üzere toplam 23.650 yorum içermektedir.</p>
 <p align='center'>
 <a href="">
-    <img  src="https://user-images.githubusercontent.com/34273337/115794578-e679c180-a3d6-11eb-9174-15fcb2d8775e.PNG" width="500"></a>
+    <img  src="https://user-images.githubusercontent.com/34273337/115794578-e679c180-a3d6-11eb-9174-15fcb2d8775e.PNG" width="600"></a>
  </p>
 
